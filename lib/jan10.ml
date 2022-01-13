@@ -17,3 +17,5 @@ let solve ts =
 let%test "12:30" = 165 = solve "12:30"
 
 let%test "3:30" = 75 = solve "3:30"
+
+let%test "3:40" = 130 = solve "3:40"
