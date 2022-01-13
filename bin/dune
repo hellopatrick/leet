@@ -1,0 +1,4 @@
+(executable
+ (public_name leet)
+ (name main)
+ (libraries leet))
